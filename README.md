@@ -28,4 +28,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Screenshot
 
-!(calculator)[https://github.com/walaazahran/calculator/blob/master/screen-recorder-mon-jun-05-2023-12-57-53.gif]
+![calculator](https://github.com/walaazahran/calculator/blob/master/screen-recorder-mon-jun-05-2023-12-57-53.gif)
